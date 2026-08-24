@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://check-tcg-ultimate-publisher.vercel.app/sitemap.xml
